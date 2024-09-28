@@ -1,4 +1,4 @@
-prin('Hello, world!***This is new changes***')
+print('Hello, world!***This is new changes***')
 
 languages = ['Swift', 'Python', 'Go','kuna']
 
